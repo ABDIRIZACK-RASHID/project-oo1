@@ -1,0 +1,56 @@
+body{
+    background-color: aqua;
+    font-family: "Droid Sans Fallback";
+}
+h1,h2,h3{
+    color: red;
+    padding: 20px;
+}
+table{
+    width: 40%;
+    background-color: yellow;
+    padding: 0px;
+    margin: 0px;
+    border-collapse: collapse;
+}
+td, th {
+    border: red 1px solid;
+    margin: 20px ;
+    padding: 10px;
+
+}
+.form-area{
+    background-color: orange;
+    height: 100vh;
+     width: 300px;
+align-items: center;
+
+    justify-content: center;
+
+}
+ul{
+background-color: yellow;
+    color: orange;
+    border: orange 1px solid;
+    border-collapse: collapse;
+}
+li,a{
+     display: block;
+    overflow: hidden;
+    text-decoration: none;
+    color: orchid;
+    float: left;
+    padding: 15px;
+    background-color: red;
+}
+li a:hover{
+    background-color: blue;
+}
+
+
+
+img{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
